@@ -1,7 +1,6 @@
  ## Hi there 🙋‍♂️
  
- Hello! My name is Eyiara Oladipo ( 15 years old ). I am currently a rising freshman to the University of Detroit mercy. I am currently learning Vue.js and have worked on several projects 
- using HTML, CSS and Javascript.
+ Hello! My name is Eyiara Oladipo. I am a freshman at the University of Detroit mercy studying Computer Science 🖥️. I am currently learning Vue.js and have worked on several projects using HTML, CSS and Javascript.
  
  ### What do I do 🤷‍♂️
  <p>
@@ -21,3 +20,4 @@
  
  ### Reach out to me ✈
  Contact me at oladipoeyiara@gmail.com, or on my <a target="_blank" href="https://www.instagram.com/just_call_me_ara/">Instagram</a> page
+                 
