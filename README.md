@@ -1,6 +1,6 @@
  ## Hi there 🙋‍♂️
  
- Hello! My name is Eyiara Oladipo. I am a freshman at the University of Detroit mercy studying Computer Science 🖥️. I am currently learning Vue.js and have worked on several projects using HTML, CSS and Javascript.
+ Hello! My name is Eyiara Oladipo. I am a sophomore at the University of Detroit mercy studying Computer Science 🖥️. I am currently learning Vue.js and have worked on several projects using HTML, CSS and Javascript.
  
  ### What do I do 🤷‍♂️
  <p>
