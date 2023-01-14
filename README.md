@@ -11,11 +11,11 @@
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
  </p>
  
-### Github language stats
+<!-- ### Github language stats
  
  <img style="" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ara-o&hide=css&layout-compact&bg_color=0C2233&text_color=D6D6D6&border_color=0C2233"
-/>
+/> -->
  
  ### Reach out to me ✈
  Contact me at oladipoeyiara@gmail.com, or on my <a target="_blank" href="https://www.linkedin.com/in/eyiara-oladipo-2b5ba2180/">Linkedin</a> page
