@@ -11,9 +11,7 @@ Hello! My name is Eyiara Oladipo. I am a sophomore at the University of Detroit 
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
  </p>
  
-![Ara-O's Stats](https://github-readme-stats.vercel.app/api?username=Ara-O&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Ara-O's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ara-O&theme=vue-dark&hide_border=true)
-![Ara-O's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ara-O&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
  ### Reach out to me ✈
  Contact me at [oladipoeyiara@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=oladipoeyiara@gmail.com&su=Subject&body=Body&tf=cm), or on my <a target="_blank" href="https://www.linkedin.com/in/eyiara-oladipo-2b5ba2180/">Linkedin</a> page
