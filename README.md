@@ -1,6 +1,12 @@
  ## Hi there 🙋🏽‍♂️
  
-Hello! My name is Eyiara Oladipo. I am a sophomore at the University of Detroit mercy studying Computer Science 🖥️. I am currently learning Vue.js and have worked on several projects using HTML, CSS and Javascript.
+Hello there! My name is Eyiara Oladipo. I am a junior at the University of Detroit mercy studying Computer Science 🖥️. 
+
+My passion lies in front-end development, where I bring ideas to life using HTML, CSS/SCSS, and frameworks like Vue.js (and occasionally React). 
+
+I also enjoy dabbling in the dark-realm with backend technologies like Node.js ( Express ) and I have experience with relational and nonrelational databases like MySQL and MongoDB.
+
+More about me - <a href='https://araoladipo.tech' target="_blank">Here</a>
  
  ### What do I do 🤷🏽‍♂️
  <p>
