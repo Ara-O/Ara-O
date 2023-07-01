@@ -1,4 +1,4 @@
- ## Hi there 🙋🏽‍♂️
+ ## Hi there
  
 Hello there! My name is Eyiara Oladipo. I am a junior at the University of Detroit mercy studying Computer Science 🖥️. 
 
