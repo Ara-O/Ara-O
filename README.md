@@ -8,7 +8,7 @@ I also enjoy dabbling in the dark-realms with backend technologies like Node.js 
 
 More about me - <a href='https://araoladipo.tech' target="_blank">Here</a>
  
- ### What do I do 🤷🏽‍♂️
+ ### What do I do 🤷
  <p>
   <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
