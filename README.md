@@ -11,6 +11,8 @@ More about me - <a href='https://araoladipo.tech' target="_blank">Here</a>
  ### What do I do 🤷
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vue,nodejs,react,firebase,mongodb,nuxt,sass,tailwind&perline=11)](https://skillicons.dev)
+
+ ### Stats 📈
  
 ![Ara-O's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ara-O&theme=vue-dark&hide_border=true)
 
