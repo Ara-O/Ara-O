@@ -6,7 +6,7 @@ My passion lies in front-end development, where I bring ideas to life using HTML
 
 I also enjoy dabbling in the dark-realms with backend technologies like Node.js ( Express ) and I have experience with relational and nonrelational databases like MySQL and MongoDB.
 
-More about me - <a href='https://araoladipo.tech' target="_blank">Here</a>
+More about me - <a href='https://araoladipo.dev' target="_blank">Here</a>
  
  ### What do I do 🤷
 
