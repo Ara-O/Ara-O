@@ -1,6 +1,6 @@
  ## Hi there 👋👋
  
-Hello there! My name is Eyiara Oladipo. I am a junior at the University of Detroit mercy studying Computer Science 🖥️. 
+Hello there! My name is Eyiara Oladipo. I am a senior at the University of Detroit Mercy studying Computer Science 🖥️. 
 
 My passion lies in front-end development, where I bring ideas to life using HTML, CSS/SCSS, and frameworks like Vue.js. 
 
