@@ -1,12 +1,10 @@
  ## Hi there 👋👋
  
-Hello there! My name is Eyiara Oladipo. I am a senior at the University of Detroit Mercy studying Computer Science 🖥️. 
+H! I'm Eyiara "Ara" Oladipo, a graduate student at the University of Detroit Mercy. I started my journey in computer science with a desire to solve real-world problems. My first major projects included building a faculty reimbursement system used across multiple colleges and creating a course scheduling tool to take the pain out of advising. These experiences fueled my interest in how technology can improve people's lives.
 
-My passion lies in front-end development, where I bring ideas to life using HTML, CSS/SCSS, and frameworks like Vue.js. 
+As I delved deeper into AI, I saw how I could integrate it with the tools I was already using, like HTML/CSS, Vue.js, and Node.js. I've worked with TensorFlow, PyTorch, Langchain, and LangGraph to develop end-to-end machine learning models, build data pipelines, and create web applications that make AI more accessible. Throughout my career, I've focused on projects involving natural language processing (NLP), computer vision, and retrieval-augmented generation (RAG) systems. These projects have not only expanded my technical expertise but also deepened my commitment to turning AI research into practical solutions that benefit users, moving beyond theoretical models and ChatGPT wrappers to tangible, real-world applications. While I enjoy research and theory, my true passion lies in developing real-world solutions that help people by solving their problems and simplifying their daily lives. 
 
-I also enjoy dabbling in the dark-realms with backend technologies like Node.js ( Express ) and I have experience with relational and nonrelational databases like MySQL and MongoDB.
-
-More about me - <a href='https://araoladipo.dev' target="_blank">Here</a>
+More about me <a href='https://araoladipo.dev' target="_blank">in my portfolio</a>
  
  ### What do I do 🤷
 
