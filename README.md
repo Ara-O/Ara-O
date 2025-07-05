@@ -1,8 +1,18 @@
- ## Hi there 👋👋
+ ## Hi there 👋👋, I'm Ara
  
-H! I'm Eyiara "Ara" Oladipo, a graduate student at the University of Detroit Mercy. I started my journey in computer science with a desire to solve real-world problems. My first major projects included building a faculty reimbursement system used across multiple colleges and creating a course scheduling tool to take the pain out of advising. These experiences fueled my interest in how technology can improve people's lives.
+🎓 Graduate CS student @ University of Detroit Mercy
 
-As I delved deeper into AI, I saw how I could integrate it with the tools I was already using, like HTML/CSS, Vue.js, and Node.js. I've worked with TensorFlow, PyTorch, Langchain, and LangGraph to develop end-to-end machine learning models, build data pipelines, and create web applications that make AI more accessible. Throughout my career, I've focused on projects involving natural language processing (NLP), computer vision, and retrieval-augmented generation (RAG) systems. These projects have not only expanded my technical expertise but also deepened my commitment to turning AI research into practical solutions that benefit users, moving beyond theoretical models and ChatGPT wrappers to tangible, real-world applications. While I enjoy research and theory, my true passion lies in developing real-world solutions that help people by solving their problems and simplifying their daily lives. 
+🔧 Built systems used across colleges (e.g. reimbursement platform, course scheduler and implicit bias research tool)
+
+🧠 Passionate about applied AI and turning research into real-world tools
+
+⚙️ Tools: PyTorch, TensorFlow, Langchain, LangGraph, Vue, Node.js
+
+📦 Built RAG systems, NLP/CV apps, data pipelines, full-stack AI tools
+
+🔍 Focused on solving real problems, not just building ChatGPT wrappers
+
+🌍 Goal: Make AI useful, usable, understandable, and human-centered
 
 More about me <a href='https://araoladipo.dev' target="_blank">in my portfolio</a>
  
